@@ -1,0 +1,5 @@
+com\example\userapi\controller\UserController.class
+com\example\userapi\repository\UserRepository.class
+com\example\userapi\model\User.class
+com\example\userapi\service\UserService.class
+com\example\userapi\UserApiApplication.class
